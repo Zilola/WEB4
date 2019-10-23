@@ -1,0 +1,59 @@
+body {
+    background-image: url(images/iceland-fox.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+#big{
+    font-size: 3cm;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(12, 5, 51);
+    text-shadow: 2px 2px 4px#e6630b;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+   
+}
+.text {
+    font-size: 2cm;
+    text-align: centre;
+    text-transform: uppercase, bold;
+    color: orange;
+    text-shadow: black;
+ }  
+
+#wrong {
+    text-align: center;
+    text-decoration: #e6630b;
+} 
+.about{
+    text-align: left;
+    font-size: 0.5cm;
+    font-family: 'Times New Roman', Times, serif;
+}
+.home{
+    text-align: left;
+    font-size: 0.5cm;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+}
+.navbar-header{
+    font-weight: 100;
+}
+
+#bs-example-navbar-collapse-1{
+font-weight:bold;
+text-decoration-color: darkblue,
+}
